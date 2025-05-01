@@ -34,12 +34,15 @@ Lade die neueste Version von der [Releases-Seite](https://github.com/helmutburk/
 ## Screenshots
 
 Einblicke in den Solarrechner:
-
-![Startseite](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-Eingaben.png)
 *Startseite des Solarrechners*
+![Startseite](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-Eingaben.png)
 
-![Berechnungsergebnisse](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-ergebnise.png)
 *Beispielhafte Berechnungsergebnisse*
+![Berechnungsergebnisse](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-ergebnise.png)
+
+*Einstellungen im Admin Bereich / Backend* 
+![Setup Page] (
+
 
 ## Beiträge
 
