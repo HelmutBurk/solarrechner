@@ -41,7 +41,7 @@ Einblicke in den Solarrechner:
 ![Berechnungsergebnisse](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-ergebnise.png)
 
 *Einstellungen im Admin Bereich / Backend* 
-![Setup Page] (
+![Setup Page] (https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-einstellungen.png) 
 
 
 ## Beiträge
