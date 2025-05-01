@@ -1,7 +1,7 @@
 # Solarrechner
 
 Willkommen im offiziellen Repository des **Solarrechners**! ☀️ Dieses Tool hilft dabei, schnell und einfach die Wirtschaftlichkeit einer Solaranlage zu berechnen. Ideal für Privatpersonen, Unternehmen oder Energieberater.
-
+Der Solarrechner ist als Wordpress Plugin konzipiert.
 ## Features
 
 - Berechnung der Amortisationszeit
@@ -16,21 +16,18 @@ Willkommen im offiziellen Repository des **Solarrechners**! ☀️ Dieses Tool h
 
 Lade die neueste Version von der [Releases-Seite](https://github.com/helmutburk/solarrechner/releases) oder direkt über GitHub herunter.
 
-2. **Dateien entpacken**
-
-Entpacke die ZIP-Datei an einen Ort deiner Wahl auf deinem Computer.
-
-3. **Programm starten**
-
-Öffne den entpackten Ordner und starte die Anwendung:
-
-- Bei ausführbarer Datei (z. B. `.exe` oder `.app`): Doppelklicke auf die Datei.
-- Bei Webanwendung: Öffne die Datei `index.html` im Browser.
-- Bei Python-Projekt: Folge den Anweisungen in der beiliegenden `readme.txt` oder führe direkt `python solarrechner.py` aus.
+3. **Plugin installieren**
+   - Gehe ins Wordpress Backend/Admin Bereich
+   - Wähle den Bereich Plugins --> Plugin hinzufügen --> Plugin hochladen --> Datei auswählen
+   - Mit Datei auswählen wählen Sie die Datei aus Ihrem Download Bereich "solarrechner.zip" aus und klicken auf jetzt installieren.
+   - Nach erfolgreicher Installation müssen Sie das Plugin aktivieren.
+   - Ist das Plugin aktiviert erschein links im Backend eine Glühbirne Solarrechner, dort bitte auf der Admin Seite die Werte ändern oder die Defaults einmal abspeichern.
+   - In dem gwünschten Wordpress Beitrag oder der Seite den Shortcode [solarrechner] einfügen.
+   - Fertig 
 
 ## Verwendung
 
-- Fülle die benötigten Parameter im Formular aus (Standort, Verbrauch, Modulpreis etc.)
+- Fülle die benötigten Parameter im Formular aus (Standort, Verbrauch, Eigenverbrauch etc.)
 - Klicke auf "Berechnen"
 - Erhalte eine detaillierte Übersicht der Kosten, Ersparnisse und Amortisationszeit
 
@@ -58,8 +55,8 @@ Dieses Projekt steht unter der MIT-Lizenz. Details siehe [LICENSE](LICENSE).
 
 Bei Fragen oder Anregungen:
 
-- 📧 E-Mail: info@solarrechner.de
-- 🌐 Webseite: https://solarrechner.de
+- 📧 E-Mail: info@bsb-bergstrasse.de
+- 🌐 Webseite: https://bsb-bergstrasse.de
 
 ---
 
