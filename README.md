@@ -38,10 +38,8 @@ Einblicke in den Solarrechner:
 ![Startseite](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-Eingaben.png)
 *Startseite des Solarrechners*
 
-![Berechnungsergebnisse](screenshots/ergebnisse.png)
+![Berechnungsergebnisse](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-ergebnise.png)
 *Beispielhafte Berechnungsergebnisse*
-
-> Screenshots findest du im Ordner `screenshots` dieses Repositories. Füge eigene hinzu, um deine individuelle Nutzung zu zeigen!
 
 ## Beiträge
 
