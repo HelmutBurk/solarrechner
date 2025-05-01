@@ -35,7 +35,7 @@ Lade die neueste Version von der [Releases-Seite](https://github.com/helmutburk/
 
 Einblicke in den Solarrechner:
 
-![Startseite](screenshots/startseite.png)
+![Startseite](https://github.com/HelmutBurk/solarrechner/blob/main/Screenshot-solarrechner-Eingaben.png)
 *Startseite des Solarrechners*
 
 ![Berechnungsergebnisse](screenshots/ergebnisse.png)
